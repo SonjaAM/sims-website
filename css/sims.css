@@ -153,6 +153,7 @@ section {
 
 #external-resources .card {
     min-height:21em;
+    vertical-align: bottom;
 }
 
 .card-logo {
