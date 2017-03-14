@@ -184,6 +184,7 @@ section {
 
 .card-text {
     padding: 15px;
+    vertical-align: middle;
 }
 
 /*for chrome*/
